@@ -7,16 +7,22 @@
     <script src="./js/bootstrap.min.js"></script>
   </head>
   <body>
-      <div class="container-fluid">
-        <div class="row">
+      <div class="container-fluid" style="min-height: 100%; min-height: 100vh; display: flex; align-items: center;">
+        <div class="row vertical-align" style="display: flex; align-items: flex-end;">
           <div class="col">
-            seta voltar
+            <!--<div class="card">
+              <img class="card-img-top" src="./img/COMANDOS/03SETAINICIO.png" alt="Capa">
+            </div>-->
           </div>
           <div class="col-6">
-            Content
+            <div class="card" style="border:none;">
+              <img class="card-img-top" src="./img/HISTORIA/CAPA.jpg" alt="Capa">
+            </div>
           </div>
-          <div class="col">
-            seta avançar
+          <div class="col align-bottom">
+            <div class="card" style="border:none;">
+              <a href="#"><img class="card-img-top" src="./img/COMANDOS/03SETAINICIO.png" alt="Capa" style="width:40%;"></a>
+            </div>
           </div>
         </div>
       </div>
