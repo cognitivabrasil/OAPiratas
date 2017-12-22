@@ -9,19 +9,21 @@
   <body>
       <div class="container-fluid" style="min-height: 100%; min-height: 100vh; display: flex; align-items: center;">
         <div class="row vertical-align" style="display: flex; align-items: flex-end;">
-          <div class="col">
-            <!--<div class="card">
-              <img class="card-img-top" src="./img/COMANDOS/03SETAINICIO.png" alt="Capa">
-            </div>-->
+          <div class="col align-bottom">
+            <div class="card" style="text-align:right; border:none;">
+              <a href="triedro.php"><img class="card-img-top" src="./img/COMANDOS/02LINKTRIEDRO.png" alt="Triedro" style="width:40%; margin-bottom:25%"></a>
+              <a href="04.php"><img class="card-img-top" src="./img/COMANDOS/01SETAVOLTAVERM.png" alt="Voltar" style="width:40%;"></a>
+            </div>
           </div>
           <div class="col-6">
             <div class="card" style="border:none;">
-              <img class="card-img-top" src="./img/HISTORIA/CAPA.jpg" alt="Capa">
+              <img class="card-img-top" src="./img/HISTORIA/005.jpg" alt="005">
             </div>
           </div>
           <div class="col align-bottom">
             <div class="card" style="border:none;">
-              <a href="01.php"><img class="card-img-top" src="./img/COMANDOS/03SETAINICIO.png" alt="Capa" style="width:40%;"></a>
+              <a href="epura.php"><img class="card-img-top" src="./img/COMANDOS/02LINKEPURA.png" alt="Épura" style="width:40%; margin-bottom:25%"></a>
+              <a href="06.php"><img class="card-img-top" src="./img/COMANDOS/01SETAAVANCAVERM.png" alt="Avançar" style="width:40%;"></a>
             </div>
           </div>
         </div>
