@@ -11,22 +11,25 @@
         <div class="row vertical-align" style="display: flex; align-items: flex-end;">
           <div class="col align-bottom">
             <div class="card" style="text-align:right; border:none;">
-              <a href="011A.php"><img class="card-img-top" src="./img/COMANDOS/01SETAVOLTAVERM.png" alt="Voltar" style="width:40%;"></a>
+              <!--<a href="portas.php"><img class="card-img-top" src="./img/COMANDOS/03VOLTARPORTA.png" alt="Voltar" style="width:40%;"></a>-->
             </div>
           </div>
           <div class="col-6">
             <div class="card" style="border:none;">
-              <img class="card-img-top" src="./img/HISTORIA/012A.jpg" alt="012A">
+              <img class="card-img-top" src="./img/HISTORIA/014.jpg" alt="014">
               <div class="col align-bottom">
                 <div class="card" style="text-align:left; border:none;">
                   <div class="row">
                     <div class="col">
-                      <a href="011B.php"><img class="card-img-top" src="./img/COMANDOS/04PIRATA2.png" alt="Voltar" style="width:70%;"></a>
+                      <a href="011A.php"><img class="card-img-top" src="./img/COMANDOS/04PIRATA1.png" alt="Voltar" style="width:80%;"></a>
                     </div>
                     <div class="col">
-                      <a href="011C.php"><img class="card-img-top" src="./img/COMANDOS/04PIRATA3.png" alt="Voltar" style="width:70%;"></a>
+                      <a href="011B.php"><img class="card-img-top" src="./img/COMANDOS/04PIRATA2.png" alt="Voltar" style="width:80%;"></a>
                     </div>
-                    <div class="col-4">
+                    <div class="col">
+                      <a href="011C.php"><img class="card-img-top" src="./img/COMANDOS/04PIRATA3.png" alt="Voltar" style="width:80%;"></a>
+                    </div>
+                    <div class="col-3">
                     </div>
                   </div>
                 </div>
@@ -35,8 +38,7 @@
           </div>
           <div class="col align-bottom">
             <div class="card" style="border:none;">
-              <a href="exsolidos.php"><img class="card-img-top" src="./img/COMANDOS/02LINKEXSOLIDOS.png" alt="PC" style="width:40%; margin-bottom:15%"></a>
-              <a href="desafio2A.php"><img class="card-img-top" src="./img/COMANDOS/03IRDESAFIO2.png" alt="Avançar" style="width:40%;"></a>
+              <a href="015.php"><img class="card-img-top" src="./img/COMANDOS/01SETAAVANCAVERM.png" alt="Avançar" style="width:40%;"></a>
             </div>
           </div>
         </div>
