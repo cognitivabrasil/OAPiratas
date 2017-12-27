@@ -11,18 +11,31 @@
         <div class="row vertical-align" style="display: flex; align-items: flex-end;">
           <div class="col align-bottom">
             <div class="card" style="text-align:right; border:none;">
-              <a href="05.php"><img class="card-img-top" src="./img/COMANDOS/01SETAVOLTAVERM.png" alt="Voltar" style="width:40%;"></a>
+              <a href="portas.php"><img class="card-img-top" src="./img/COMANDOS/03VOLTARPORTA.png" alt="Voltar" style="width:40%;"></a>
             </div>
           </div>
           <div class="col-6">
             <div class="card" style="border:none;">
-              <img class="card-img-top" src="./img/HISTORIA/006.jpg" alt="006">
+              <img class="card-img-top" src="./img/HISTORIA/011A.jpg" alt="011A">
+              <div class="col align-bottom">
+                <div class="card" style="text-align:left; border:none;">
+                  <div class="row">
+                    <div class="col">
+                      <a href="011B.php"><img class="card-img-top" src="./img/COMANDOS/04PIRATA2.png" alt="Voltar" style="width:70%;"></a>
+                    </div>
+                    <div class="col">
+                      <a href="011C.php"><img class="card-img-top" src="./img/COMANDOS/04PIRATA3.png" alt="Voltar" style="width:70%;"></a>
+                    </div>
+                    <div class="col-4">
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
           <div class="col align-bottom">
             <div class="card" style="border:none;">
-              <a href="solidos.php"><img class="card-img-top" src="./img/COMANDOS/02LINKSOLIDOS.png" alt="PC" style="width:40%; margin-bottom:25%"></a>
-              <a href="07.php"><img class="card-img-top" src="./img/COMANDOS/01SETAAVANCAVERM.png" alt="Avançar" style="width:40%;"></a>
+              <a href="012A.php"><img class="card-img-top" src="./img/COMANDOS/01SETAAVANCAVERM.png" alt="Avançar" style="width:40%;"></a>
             </div>
           </div>
         </div>

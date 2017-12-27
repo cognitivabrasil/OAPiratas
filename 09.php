@@ -21,7 +21,7 @@
           </div>
           <div class="col align-bottom">
             <div class="card" style="border:none;">
-              <a href="proj.php"><img class="card-img-top" src="./img/COMANDOS/02LINKMAISSOLIDOS.png" alt="Mais Sólidos" style="width:40%; margin-bottom:20%"></a>
+              <a href="maissolidos.php"><img class="card-img-top" src="./img/COMANDOS/02LINKMAISSOLIDOS.png" alt="Mais Sólidos" style="width:40%; margin-bottom:20%"></a>
               <a href="desafio1.php"><img class="card-img-top" src="./img/COMANDOS/03IRDESAFIO1.png" alt="Avançar" style="width:40%;"></a>
             </div>
           </div>

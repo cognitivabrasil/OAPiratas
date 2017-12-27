@@ -11,18 +11,17 @@
         <div class="row vertical-align" style="display: flex; align-items: flex-end;">
           <div class="col align-bottom">
             <div class="card" style="text-align:right; border:none;">
-              <a href="05.php"><img class="card-img-top" src="./img/COMANDOS/01SETAVOLTAVERM.png" alt="Voltar" style="width:40%;"></a>
+              <!--<a href="maissolidos.php"><img class="card-img-top" src="./img/COMANDOS/02LINKMAISSOLIDOS.png" alt="Voltar" style="width:40%;"></a>-->
             </div>
           </div>
           <div class="col-6">
             <div class="card" style="border:none;">
-              <img class="card-img-top" src="./img/HISTORIA/006.jpg" alt="006">
+              <img class="card-img-top" src="./img/HISTORIA/010B.jpg" alt="010B">
             </div>
           </div>
           <div class="col align-bottom">
             <div class="card" style="border:none;">
-              <a href="solidos.php"><img class="card-img-top" src="./img/COMANDOS/02LINKSOLIDOS.png" alt="PC" style="width:40%; margin-bottom:25%"></a>
-              <a href="07.php"><img class="card-img-top" src="./img/COMANDOS/01SETAAVANCAVERM.png" alt="Avançar" style="width:40%;"></a>
+              <a href="portas.php"><img class="card-img-top" src="./img/COMANDOS/01SETAAVANCAVERM.png" alt="Avançar" style="width:40%;"></a>
             </div>
           </div>
         </div>
