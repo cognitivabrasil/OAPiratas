@@ -11,18 +11,17 @@
         <div class="row vertical-align" style="display: flex; align-items: flex-end;">
           <div class="col align-bottom">
             <div class="card" style="text-align:right; border:none;">
-              <a href="03.php"><img class="card-img-top" src="./img/COMANDOS/01SETAVOLTAVERM.png" alt="Voltar" style="width:40%;"></a>
+              <a href="06.php"><img class="card-img-top" src="./img/COMANDOS/03VOLTARLINK3.png" alt="Voltar" style="width:40%;"></a>
             </div>
           </div>
           <div class="col-6">
             <div class="card" style="border:none;">
-              <img class="card-img-top" src="./img/HISTORIA/004.jpg" alt="004">
+              <img class="card-img-top" src="./img/LINKS/SOLIDO01.jpg" alt="Sólidos">
             </div>
           </div>
           <div class="col align-bottom">
             <div class="card" style="border:none;">
-              <a href="pc.php"><img class="card-img-top" src="./img/COMANDOS/02LINKPC.png" alt="PC" style="width:40%; margin-bottom:25%"></a>
-              <a href="05.php"><img class="card-img-top" src="./img/COMANDOS/01SETAAVANCAVERM.png" alt="Avançar" style="width:40%;"></a>
+              <a href="solidos2.php"><img class="card-img-top" src="./img/COMANDOS/01SETAAVANCAAZUL.png" alt="Avançar" style="width:40%;"></a>
             </div>
           </div>
         </div>
