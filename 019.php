@@ -11,7 +11,8 @@
         <div class="row vertical-align" style="display: flex; align-items: flex-end;">
           <div class="col align-bottom">
             <div class="card" style="text-align:right; border:none;">
-              <span><img class="card-img-top" src="./img/COMANDOS/00FINAL.png" alt="Voltar" style="width:40%;"></span>
+              <span><img class="card-img-top" src="./img/COMANDOS/00FINAL.png" alt="Final" style="width:40%;"></span>
+              <br><br><a href="final.php">Clique aqui para responder<br>um questionário sobre a história</a>
             </div>
           </div>
           <div class="col-6">
